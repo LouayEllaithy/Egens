@@ -1,0 +1,39 @@
+body {
+    background-color: #E9EDF4;
+    font-family: "Jost", sans-serif;
+}
+
+.nav-link {
+    font-size: 18px;
+    font-weight: 500;
+    color: black;
+}
+
+.nav-item {
+    margin-right: 40px;
+}
+
+.banner-subtitle {
+    color: #7153d9;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.banner-title {
+    font-size: 72px;
+    font-weight: 700;
+}
+
+.banner-text {
+    font-size: 24px;
+    font-weight: 400;
+    color: #54545f;
+}
+
+.banner-btn {
+    text-decoration: none;
+    color: white;
+    background: linear-gradient(135deg, #7153d9 0%, #5435be 45%, #4526b1 66%);
+    padding: 15px 40px;
+    border-radius: 40px;
+}
